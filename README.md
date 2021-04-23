@@ -1,4 +1,4 @@
-# BasicDeNico
+# Codeware - BasicDeNico
 
 Please find my solution to the below Codewars kyu 5 kata;
 
